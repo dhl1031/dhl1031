@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/dhl1031/dhl1031/assets/141328665/40811f57-ab22-4cff-9f14-cdf5f4374c50.gif" width="100%" height="2px" />
-
+<br><br>
 <div align=center>
 
+<img src="https://github.com/dhl1031/dhl1031/assets/141328665/65e03586-eda8-4ea0-99a0-618466a0e65a.gif" ><br><br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhl1031%2Fdhl1031&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
+<br><br>
 
 </div>
 
