@@ -36,5 +36,8 @@ Here are some ideas to get you started:
 </div>
 
 <br><br>
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
 <img src="https://github.com/dhl1031/dhl1031/assets/141328665/40811f57-ab22-4cff-9f14-cdf5f4374c50.gif" width="100%" height="2px" />
 
