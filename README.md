@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img src="https://github.com/dhl1031/dhl1031/assets/141328665/40811f57-ab22-4cff-9f14-cdf5f4374c50.gif" width="100%" height="2px" />
-<br><br>
+<br><br><br><br>
+
 <div align=center>
 
 <img src="https://github.com/dhl1031/dhl1031/assets/141328665/65e03586-eda8-4ea0-99a0-618466a0e65a.gif" ><br><br>
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <br><br>
 
 </div>
-
+<br>
 
 <div align=center>
-  <h3>TECH STACK </h3>
+  <h3>✨ TECH STACK ✨</h3>
 </div>
 
 <div align=center>
@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/visualstudio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/git hub-181717?style=for-the-badge&logo=github&logoColor=fff"> &nbsp; <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
 </div>
 
+<br><br>
 <img src="https://github.com/dhl1031/dhl1031/assets/141328665/40811f57-ab22-4cff-9f14-cdf5f4374c50.gif" width="100%" height="2px" />
+
